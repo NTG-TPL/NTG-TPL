@@ -9,7 +9,9 @@
 
 [![OpenCV](https://img.shields.io/badge/Lib-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=6aa6f8)](https://opencv.org/)
 [![Qt](https://img.shields.io/badge/Lib-Qt-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/framework)
+[![STL](https://img.shields.io/badge/Lib-STL-informational?style=flat&logo=STL&logoColor=white&color=6aa6f8)](https://www.qt.io/product/framework)
   
+[![Git](https://img.shields.io/badge/Skill-Git-informational?style=flat&logo=Git&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
 [![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
 [![CMake](https://img.shields.io/badge/Skill-CMake-informational?style=flat&logo=CMake&logoColor=white&color=6aa6f8)](https://cmake.org/)
 [![HTML](https://img.shields.io/badge/Skill-HTML-informational?style=flat&logo=Html5&logoColor=white&color=6aa6f8)](https://html.spec.whatwg.org/multipage/)
