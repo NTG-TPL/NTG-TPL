@@ -20,7 +20,7 @@
 [![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
 [![CMake](https://img.shields.io/badge/Skill-CMake-informational?style=flat&logo=CMake&logoColor=white&color=6aa6f8)](https://cmake.org/)
 [![HTML](https://img.shields.io/badge/Skill-HTML-informational?style=flat&logo=Html5&logoColor=white&color=6aa6f8)](https://html.spec.whatwg.org/multipage/)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)(https://www.w3.org/Style/CSS/)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)(https://www.w3.org/Style/CSS/)
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=6aa6f8)]()
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6aa6f8)]()
