@@ -14,6 +14,7 @@
 [![OpenCV](https://img.shields.io/badge/Lib-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=6aa6f8)](https://opencv.org/)
 [![Qt](https://img.shields.io/badge/Lib-Qt-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/framework)
 [![STL](https://img.shields.io/badge/Lib-STL-informational?style=flat&logo=STL&logoColor=white&color=6aa6f8)](https://www.qt.io/product/framework)
+ [![OpenMP](https://img.shields.io/badge/Lib-OpenMP-informational?style=flat&logo=OpenMP&logoColor=white&color=6aa6f8)](https://opencv.org/)
   
 [![Git](https://img.shields.io/badge/Skill-Git-informational?style=flat&logo=Git&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
 [![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
@@ -24,7 +25,7 @@
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=6aa6f8)]()
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6aa6f8)]()
   
-[![Eclipse](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=6aa6f8)](https://www.eclipse.org/)
+[![Eclipse](https://img.sаёт описание совокупности директив компилятора, библиотечных процедур и переменных окружения, которые предназначены для программирования многопоточных приложений на многопроцессорных системах с общей памятью.hields.io/badge/Editor-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=6aa6f8)](https://www.eclipse.org/)
 [![QtCreator](https://img.shields.io/badge/Editor-QtCreator-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/development-tools)
 [![CLion](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=Clion&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/clion/)
 [![pgAdmin4](https://img.shields.io/badge/Editor-pgAdmin4-informational?style=flat&logo=pgAdmin4&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/clion/)
