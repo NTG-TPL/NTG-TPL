@@ -18,13 +18,12 @@
 [![Eclipse](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=6aa6f8)](https://www.eclipse.org/)
 [![QtCreator](https://img.shields.io/badge/Editor-QtCreator-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/development-tools)
 [![CLion](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=Clion&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/clion/)
+[![pgAdmin4](https://img.shields.io/badge/Editor-pgAdmin4-informational?style=flat&logo=pgAdmin4&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/clion/)
 
 ## ✏️ Контакты:
-
-[![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/mrgorkiy)
-[![Discord](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=6aa6f8)](https://discordapp.com/users/407572130398601217/)
+[![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrgorkiy/)
-[![E-Mail](https://img.shields.io/badge/Mail-informational?style=flat&logo=Gmail&logoColor=white&color=red)](mailto:mbrysin@bk.ru)
+[![E-Mail](https://img.shields.io/badge/Mail-informational?style=flat&logo=Yandex&logoColor=white&color=red)](mailto:nikolay.tep@yandex.ru)
 
 [![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://nn.hh.ru/resume/0bd2378fff0b9bcb5b0039ed1f5277665a7442)
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/mrgorkiy)
