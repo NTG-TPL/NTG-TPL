@@ -27,7 +27,7 @@
 [![CLion](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=Clion&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/clion/)
 [![pgAdmin4](https://img.shields.io/badge/Editor-pgAdmin4-informational?style=flat&logo=pgAdmin4&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/clion/)
 
-## 📫 Как связаться со мной::
+## 📫 Как связаться со мной:
 [![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
 [![E-Mail](https://img.shields.io/badge/@-Mail-informational?style=flat&logo=Mail&logoColor=white&color=red)](mailto:nikolay.tep@yandex.ru)
 
