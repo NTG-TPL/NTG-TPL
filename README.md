@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Меня зовут <a href="https://github.com/NIKTRUP/" target="_blank">Николай</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>
 
-## :computer: Техногии и :wrench: :nut_and_bolt: Инструменты
+## :computer: Техногии и :wrench: Инструменты
 
 [![С++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=6aa6f8)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)](https://www.python.org/)
