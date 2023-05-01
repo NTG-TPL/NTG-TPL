@@ -31,10 +31,11 @@
 [![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
 [![E-Mail](https://img.shields.io/badge/@-Mail-informational?style=flat&logo=Mail&logoColor=white&color=red)](mailto:nikolay.tep@yandex.ru)
 
+## :page_facing_up: Резюме:
 [![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://kazan.hh.ru/resume/14fd1eacff087746f30039ed1f4c6e36664647)
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ntg-tpl)
 
-## 📊 Статистика:
+## :chart_with_upwards_trend: Статистика:
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIKTRUP&theme=github_dark)
 
