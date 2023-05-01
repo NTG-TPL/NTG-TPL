@@ -32,7 +32,7 @@
 [![pgAdmin4](https://img.shields.io/badge/Editor-pgAdmin4-informational?style=flat&logo=pgAdmin4&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/clion/)
 
 ## 📫 Как связаться со мной:
-[![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
+[![Telegram](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
 [![Discord](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=6aa6f8)](https://discordapp.com/users/747840038498336799/)
 [![Gmail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white&color=blue)](mailto:nikolay.tep@yandex.ru)
 
