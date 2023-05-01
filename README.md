@@ -32,7 +32,7 @@
 
 ## 📫 Как связаться со мной:
 [![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
-[![E-Mail](https://img.shields.io/badge/@-Mail-informational?style=flat&logo=Mail&logoColor=white&color=red)](mailto:nikolay.tep@yandex.ru)
+[![Gmail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white&color=blue)](mailto:nikolay.tep@yandex.ru)
 
 
 ## :page_facing_up: Резюме:
