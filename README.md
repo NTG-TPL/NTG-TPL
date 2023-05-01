@@ -1,11 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Рад+тебя+видеть+!!!)](https://git.io/typing-svg)
 <h1 align="center">Привет! Меня зовут <a href="https://github.com/NIKTRUP/" target="_blank">Тепляков Николай</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>
 
 ## Немного обо мне: 
 Я студент Казанского Федерального Университета 3-его курса бакалавриата, учусь на прикладной математике. Занимался решением задач распознавания объектов и их сопровождения в составе кросс-функциональной команды в АО "РПЗ" на языке С++. Тут публикуются проекты, которыми я занимаюсь в свободное время.
 Чтобы узнать больше обо мне, посмотрите резюме на HeadHunter в разделе "Резюме".
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NIKTRUP)](https://github.com/ryo-ma/github-profile-trophy)
 ## :computer: Техногии и :wrench: Инструменты
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
