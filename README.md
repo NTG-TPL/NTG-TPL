@@ -21,7 +21,7 @@
 
 ## ✏️ Контакты:
 [![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
-[![E-Mail](https://img.shields.io/badge/Mail-Yandex-informational?style=flat&logo=Yandex&logoColor=white&color=red)](mailto:nikolay.tep@yandex.ru)
+[![Yandex](https://img.shields.io/badge/Mail-Yandex-informational?style=flat&logo=Yandex&logoColor=white&color=red)](mailto:nikolay.tep@yandex.ru)
 
 [![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://kazan.hh.ru/resume/14fd1eacff087746f30039ed1f4c6e36664647)
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ntg-tpl)
