@@ -22,16 +22,10 @@
 
 ## ✏️ Контакты:
 [![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
-[![Habr](https://img.shields.io/badge/Habr-informational?style=flat&logo=Habr&logoColor=white&color=red)](https://career.habr.com/ntg-tpl)
 [![E-Mail](https://img.shields.io/badge/Mail-informational?style=flat&logo=yandex.ru&logoColor=white&color=red)](mailto:nikolay.tep@yandex.ru)
 
-[![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://nn.hh.ru/resume/0bd2378fff0b9bcb5b0039ed1f5277665a7442)
-[![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/mrgorkiy)
-
-<!-- 
-[![HeadHunter](image/head hunter.png)](https://nn.hh.ru/resume/0bd2378fff0b9bcb5b0039ed1f5277665a7442)
-[![HabrCareer](image/habr career.png)](https://career.habr.com/mrgorkiy) 
--->
+[![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://kazan.hh.ru/resume/14fd1eacff087746f30039ed1f4c6e36664647)
+[![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ntg-tpl)
 
 ## 📊 Статистика:
 
@@ -46,15 +40,3 @@
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mrgorkiy" /></p>
-
-<!--
-
-![](https://komarev.com/ghpvc/?username=mrgorkiy)
-
-![GitHub metrics](https://metrics.lecoq.io/MrGorkiy) 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrgorkiy&show_icons=true&theme=dark&locale=ru&layout=compact" alt="mrgorkiy" /></p>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrgorkiy&theme=xcode)](https://github.com/mrgorkiy/github-readme-activity-graph)
-
--->
