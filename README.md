@@ -1,7 +1,4 @@
 <h1 align="center">Привет! Меня зовут <a href="https://github.com/NIKTRUP/" target="_blank">Тепляков Николай</a>
-Сейчас я студент Казанского Федерального Университета 3-его курса бакалавриата, учусь на прикладной математике.
-Тут публикуются мои проекты, которыми я занимаюсь в свободное время.
-
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>
 
 ## :computer: Техногии и :wrench: Инструменты
