@@ -1,6 +1,5 @@
 <h1 align="center">Привет! Меня зовут <a href="https://github.com/NIKTRUP/" target="_blank">Николай</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>
-<!--<p><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=21&pause=1000&center=true&vCenter=true&width=600&lines=Я+изучаю+Python+и+C%2B%2B+в+Яндекс+Практикуме;Приятно+тебя+видеть+тут%2C+заглядывай+еще!" alt="I am a student of the Yandex School of Python and C++. Nice to see you here, thank you!" /></p></h1>-->
 
 ## 🔧 Техногии & Инструменты
 
@@ -29,13 +28,13 @@
 
 ## 📊 Статистика:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrgorkiy&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIKTRUP&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrgorkiy&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrgorkiy&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIKTRUP&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIKTRUP&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrgorkiy&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrgorkiy&theme=github_dark&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIKTRUP&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NIKTRUP&theme=github_dark&utcOffset=3)
 
 
 
