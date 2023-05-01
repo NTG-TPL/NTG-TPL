@@ -37,7 +37,7 @@
 [![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://kazan.hh.ru/resume/14fd1eacff087746f30039ed1f4c6e36664647)
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ntg-tpl)
 
-## :chart_with_upwards_trend: Статистика:
+## :bar_chart: Статистика:
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIKTRUP&theme=github_dark)
 
