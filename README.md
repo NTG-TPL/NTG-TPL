@@ -27,8 +27,7 @@
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ntg-tpl)
 
 ## 📊 Статистика:
-
-[![](https://github-profile-summary.vercel.app/api/top-langs/?username=NIKTRUP)](https://github.com/NIKTRUP)
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIKTRUP&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIKTRUP&theme=github_dark)
