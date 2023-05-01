@@ -6,6 +6,9 @@
 [![С++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=6aa6f8)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=6aa6f8)](https://www.ecma-international.org/wp-content/uploads/ECMA-334_6th_edition_june_2022.pdf)
+
+[![OpenCV](https://img.shields.io/badge/Lib-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=6aa6f8)](https://opencv.org/)
+[![Qt](https://img.shields.io/badge/Lib-Qt-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/framework)
   
 [![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
 [![CMake](https://img.shields.io/badge/Skill-CMake-informational?style=flat&logo=CMake&logoColor=white&color=6aa6f8)](https://cmake.org/)
