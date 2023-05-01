@@ -2,10 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>
 
 ## 🔧 Техногии & Инструменты
-\#
+
 [![С++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=6aa6f8)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=6aa6f8)](https://www.ecma-international.org/wp-content/uploads/ECMA-334_6th_edition_june_2022.pdf)
+[![C#](https://img.shields.io/badge/Code-C\#-informational?style=flat&logo=CSharp&logoColor=white&color=6aa6f8)](https://www.ecma-international.org/wp-content/uploads/ECMA-334_6th_edition_june_2022.pdf)
   
 [![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
 [![HTML](https://img.shields.io/badge/Skill-HTML-informational?style=flat&logo=Html5&logoColor=white&color=6aa6f8)](https://html.spec.whatwg.org/multipage/)
