@@ -22,7 +22,7 @@
 
 ## ✏️ Контакты:
 [![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrgorkiy/)
+[![Habr](https://img.shields.io/badge/Mail-informational?style=flat&logo=Yandex&logoColor=white&color=red)](mailto:nikolay.tep@yandex.ru)
 [![E-Mail](https://img.shields.io/badge/Mail-informational?style=flat&logo=Yandex&logoColor=white&color=red)](mailto:nikolay.tep@yandex.ru)
 
 [![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://nn.hh.ru/resume/0bd2378fff0b9bcb5b0039ed1f5277665a7442)
