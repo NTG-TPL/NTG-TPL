@@ -7,9 +7,9 @@
   
 ## :computer: Техногии и :wrench: Инструменты
 
-![C++](https://img.shields.io/badge/Code-c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)(https://isocpp.org/)
-![Python](https://img.shields.io/badge/Code-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)(https://www.python.org/)
-![C#](https://img.shields.io/badge/Code-c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)(https://www.ecma-international.org/wp-content/uploads/ECMA-334_6th_edition_june_2022.pdf)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)(https://isocpp.org/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)(https://www.python.org/)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)(https://www.ecma-international.org/wp-content/uploads/ECMA-334_6th_edition_june_2022.pdf)
 
 [![OpenCV](https://img.shields.io/badge/Lib-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=6aa6f8)](https://opencv.org/)
 [![Qt](https://img.shields.io/badge/Lib-Qt-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/framework)
