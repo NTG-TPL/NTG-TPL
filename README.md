@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=<h1 align="center">Привет! Меня зовут <a href="https://github.com/NIKTRUP/" target="_blank">Тепляков Николай</a>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Написано+Студентов)](https://git.io/typing-svg)
+<h1 align="center">Привет! Меня зовут <a href="https://github.com/NIKTRUP/" target="_blank">Тепляков Николай</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>
 
 ## :relaxed: Немного обо мне: 
