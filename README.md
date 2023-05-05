@@ -14,7 +14,7 @@
 
 [![OpenCV](https://img.shields.io/badge/Lib-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=6aa6f8)](https://opencv.org/)
 [![Qt](https://img.shields.io/badge/Lib-Qt-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/framework)
-[![STL](https://img.shields.io/badge/Lib-STL-informational?style=flat&logo=STL&logoColor=white&color=6aa6f8)]([https://www.qt.io/product/framework](https://en.wikipedia.org/wiki/Standard_Template_Library))
+[![STL](https://img.shields.io/badge/Lib-STL-informational?style=flat&logo=STL&logoColor=white&color=6aa6f8)]()
 [![OpenMP](https://img.shields.io/badge/Lib-OpenMP-informational?style=flat&logo=OpenMP&logoColor=white&color=6aa6f8)](https://www.openmp.org/)
   
 [![Git](https://img.shields.io/badge/Skill-Git-informational?style=flat&logo=Git&logoColor=white&color=6aa6f8)](https://git-scm.com/)
