@@ -14,10 +14,10 @@
 
 [![OpenCV](https://img.shields.io/badge/Lib-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=6aa6f8)](https://opencv.org/)
 [![Qt](https://img.shields.io/badge/Lib-Qt-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/framework)
-[![STL](https://img.shields.io/badge/Lib-STL-informational?style=flat&logo=STL&logoColor=white&color=6aa6f8)](https://www.qt.io/product/framework)
-[![OpenMP](https://img.shields.io/badge/Lib-OpenMP-informational?style=flat&logo=OpenMP&logoColor=white&color=6aa6f8)](https://opencv.org/)
+[![STL](https://img.shields.io/badge/Lib-STL-informational?style=flat&logo=STL&logoColor=white&color=6aa6f8)]([https://www.qt.io/product/framework](https://en.wikipedia.org/wiki/Standard_Template_Library))
+[![OpenMP](https://img.shields.io/badge/Lib-OpenMP-informational?style=flat&logo=OpenMP&logoColor=white&color=6aa6f8)](https://www.openmp.org/)
   
-[![Git](https://img.shields.io/badge/Skill-Git-informational?style=flat&logo=Git&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
+[![Git](https://img.shields.io/badge/Skill-Git-informational?style=flat&logo=Git&logoColor=white&color=6aa6f8)](https://git-scm.com/)
 [![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
 [![CMake](https://img.shields.io/badge/Skill-CMake-informational?style=flat&logo=CMake&logoColor=white&color=6aa6f8)](https://cmake.org/)
 [![HTML](https://img.shields.io/badge/Skill-HTML-informational?style=flat&logo=Html5&logoColor=white&color=6aa6f8)](https://html.spec.whatwg.org/multipage/)
@@ -29,7 +29,7 @@
 [![Eclipse](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=6aa6f8)](https://www.eclipse.org/)
 [![QtCreator](https://img.shields.io/badge/Editor-QtCreator-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/development-tools)
 [![CLion](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=Clion&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/clion/)
-[![pgAdmin4](https://img.shields.io/badge/Editor-pgAdmin4-informational?style=flat&logo=pgAdmin4&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/clion/)
+[![pgAdmin4](https://img.shields.io/badge/Editor-pgAdmin4-informational?style=flat&logo=pgAdmin4&logoColor=white&color=6aa6f8)](https://www.pgadmin.org/)
 
 ## 📫 Как связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
