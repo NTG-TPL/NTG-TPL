@@ -35,7 +35,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
 [![Discord](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=6aa6f8)](https://discordapp.com/users/747840038498336799/)
 [![Gmail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white&color=blue)](mailto:nikolay.tep@yandex.ru)
-
+[![Facultetus](https://img.shields.io/badge/Facultetus-informational?style=flat&logo=QR&logoColor=white&color=6aa6f8)](https://facultetus.ru/qrcreator?url=https%3A%2F%2Ffacultetus.ru%2Fs%2F810803%2F989c6764ff55f469f8a6763735c07e744680)
 
 ## :page_facing_up: Резюме:
 [![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://kazan.hh.ru/resume/14fd1eacff087746f30039ed1f4c6e36664647)
