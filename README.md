@@ -52,7 +52,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIKTRUP&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NIKTRUP&theme=github_dark&utcOffset=3)
-
-
-
+  
 <p align="center"><img src="https://komarev.com/ghpvc/?username=NIKTRUP" /></p>
