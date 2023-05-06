@@ -43,6 +43,8 @@
 
 ## :bar_chart: Статистика:
   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NIKTRUP&theme=github-dark-blue&hide_border=true&border_radius=10&locale=ru&type=png&card_width=700&fire=F34B7D&stroke=0D1117)](https://git.io/streak-stats)
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIKTRUP&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIKTRUP&theme=github_dark)
