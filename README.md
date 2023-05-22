@@ -6,7 +6,6 @@
 Тут публикуются проекты, которыми я занимаюсь в свободное время.
 Чтобы узнать больше обо мне, загляните в раздел "Резюме".
   
-  
 ## :computer: Техногии и :wrench: Инструменты
 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
