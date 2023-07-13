@@ -4,7 +4,7 @@
 ## Немного обо мне: 
 Я студент Казанского Федерального Университета 3-го курса бакалавриата, учусь на прикладной математике. Занимался решением задач обнаружения объектов и их сопровождения на языке C++ в составе кросс-функциональной команды.
 Тут публикуются проекты, которые я делаю в свободное время.
-Загляните в раздел <p><a href="#Resume">Резюме</a></p>, чтобы узнать обо мне больше.
+Загляните в раздел <a href="#Resume">Резюме</a>, чтобы узнать обо мне больше.
 
 ## :computer: Техногии и :wrench: Инструменты
 
@@ -36,7 +36,7 @@
 [![Discord](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=6aa6f8)](https://discordapp.com/users/747840038498336799/)
 [![Gmail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white&color=blue)](mailto:nikolay.tep@yandex.ru)
 
-## :page_facing_up: <p><a name="Resume"></a>Резюме</p>:
+## :page_facing_up: <a name="Resume">Резюме</a>:
 [![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://kazan.hh.ru/resume/14fd1eacff087746f30039ed1f4c6e36664647)
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ntg-tpl)
 
