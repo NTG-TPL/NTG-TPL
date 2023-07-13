@@ -31,6 +31,13 @@
 [![QtCreator](https://img.shields.io/badge/Editor-QtCreator-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/development-tools)
 [![CLion](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=Clion&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/clion/)
 
+##
+##
+##
+##
+##
+##
+
 ## 📫 Как связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
 [![Discord](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=6aa6f8)](https://discordapp.com/users/747840038498336799/)
