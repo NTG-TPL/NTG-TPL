@@ -4,7 +4,7 @@
 ## Немного обо мне: 
 Я студент Казанского Федерального Университета 3-го курса бакалавриата, учусь на прикладной математике. Занимался решением задач обнаружения объектов и их сопровождения на языке C++ в составе кросс-функциональной команды.
 Тут публикуются проекты, которые я делаю в свободное время.
-Загляните в раздел <a href="#Resume">Резюме</a>, чтобы узнать обо мне больше.
+Загляните в раздел [Резюме](#Resume), чтобы узнать обо мне больше.
 
 ## :computer: Техногии и :wrench: Инструменты
 
@@ -30,13 +30,6 @@
 [![Eclipse](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=6aa6f8)](https://www.eclipse.org/)
 [![QtCreator](https://img.shields.io/badge/Editor-QtCreator-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/development-tools)
 [![CLion](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=Clion&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/clion/)
-
-##
-##
-##
-##
-##
-##
 
 ## 📫 Как связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
