@@ -4,7 +4,7 @@
 ## Немного обо мне: 
 Я студент Казанского Федерального Университета 3-го курса бакалавриата, учусь на прикладной математике. Занимался решением задач обнаружения объектов и их сопровождения на языке C++ в составе кросс-функциональной команды.
 Тут публикуются проекты, которые я делаю в свободное время.
-Загляните в раздел "[Резюме](#Resume)", чтобы узнать обо мне больше.
+Загляните в раздел "[Резюме](https://github.com/NIKTRUP/#резюме)", чтобы узнать обо мне больше.
 
 ## :computer: Техногии и :wrench: Инструменты
 
@@ -36,10 +36,10 @@
 [![Discord](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=6aa6f8)](https://discordapp.com/users/747840038498336799/)
 [![Gmail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white&color=blue)](mailto:nikolay.tep@yandex.ru)
 
-## <a name="Resume">Резюме</a>:
+## :page_facing_up:  Резюме:
 [![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://kazan.hh.ru/resume/14fd1eacff087746f30039ed1f4c6e36664647)
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ntg-tpl)
-:page_facing_up: 
+
 ## :bar_chart: Статистика:
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NIKTRUP&theme=github-dark-blue&hide_border=true&border_radius=10&locale=ru&type=png&card_width=700&fire=F34B7D&stroke=0D1117)](https://git.io/streak-stats)
