@@ -17,6 +17,8 @@
 [![Qt](https://img.shields.io/badge/Lib-Qt-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/framework)
 [![STL](https://img.shields.io/badge/Lib-STL-informational?style=flat&logo=STL&logoColor=white&color=6aa6f8)]()
 [![OpenMP](https://img.shields.io/badge/Lib-OpenMP-informational?style=flat&logo=OpenMP&logoColor=white&color=6aa6f8)](https://www.openmp.org/)
+[![ProtoBuf](https://img.shields.io/badge/Lib-Protobuf-informational?style=flat&logo=Protobuf&logoColor=white&color=6aa6f8)](https://protobuf.dev/)
+
   
 [![Git](https://img.shields.io/badge/Skill-Git-informational?style=flat&logo=Git&logoColor=white&color=6aa6f8)](https://git-scm.com/)
 [![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
@@ -38,7 +40,7 @@
 [![Gmail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white&color=blue)](mailto:nikolay.tep@yandex.ru)
 
 ## :page_facing_up: <a name="Resume">Резюме</a>:
-[![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://kazan.hh.ru/resume/14fd1eacff087746f30039ed1f4c6e36664647)
+[![HeadHunter](https://github.com/NIKTRUP/NIKTRUP/files/12717440/6.pdf)
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ntg-tpl)
 
 ## :bar_chart: Статистика:
