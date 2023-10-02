@@ -1,8 +1,5 @@
-<h1 align="center">Привет! Меня зовут <a href="https://github.com/NIKTRUP/" target="_blank">Николай</a>
+<h1 align="center">Привет! Меня зовут <a href="https://github.com/NTG-TPL/" target="_blank">Николай</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>
-
-# Внимание!
-Это старый аккаунт. [Вот новый](https://github.com/NTG-TPL).
 
 ## Немного обо мне: 
 Я студент Казанского Федерального Университета 4-го курса бакалавриата, учусь на прикладной математике. Занимался решением задач обнаружения объектов и их сопровождения на языке C++ в составе кросс-функциональной команды.
@@ -43,19 +40,19 @@
 [![Gmail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white&color=blue)](mailto:nikolay.tep@yandex.ru)
 
 ## :page_facing_up: <a name="Resume">Резюме</a>:
-[![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://github.com/NIKTRUP/NIKTRUP/files/12717440/6.pdf)
+[![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://github.com/NTG-TPL/NTG-TPL/files/12717440/6.pdf)
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ntg-tpl)
 
 ## :bar_chart: Статистика:
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NIKTRUP&theme=github-dark-blue&hide_border=true&border_radius=10&locale=ru&type=png&card_width=700&fire=F34B7D&stroke=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NTG-TPL&theme=github-dark-blue&hide_border=true&border_radius=10&locale=ru&type=png&card_width=700&fire=F34B7D&stroke=0D1117)](https://git.io/streak-stats)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIKTRUP&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NTG-TPL&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIKTRUP&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIKTRUP&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NTG-TPL&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NTG-TPL&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIKTRUP&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NIKTRUP&theme=github_dark&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NTG-TPL&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NTG-TPL&theme=github_dark&utcOffset=3)
   
-<p align="center"><img src="https://komarev.com/ghpvc/?username=NIKTRUP" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=NTG-TPL" /></p>
