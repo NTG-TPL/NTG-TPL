@@ -40,7 +40,7 @@
 [![Gmail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white&color=blue)](mailto:nikolay.tep@yandex.ru)
 
 ## :page_facing_up: <a name="Resume">Резюме</a>:
-[![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://github.com/NTG-TPL/NTG-TPL/files/12717440/6.pdf)
+[![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://github.com/NTG-TPL/NTG-TPL/files/12801370/10.pdf)
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ntg-tpl)
 
 ## :bar_chart: Статистика:
