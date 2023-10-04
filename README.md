@@ -44,9 +44,9 @@
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ntg-tpl)
 
 ## :bar_chart: Статистика:
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NTG-TPL&theme=github-dark-blue&hide_border=true&border_radius=10&locale=ru&type=png&card_width=700&fire=F34B7D&stroke=0D1117)](https://git.io/streak-stats)
-  
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NTG-TPL&theme=github-dark-blue&hide_border=true&border_radius=10&locale=ru&card_width=700&stroke=0D1117&fire=F34B7D)](https://git.io/streak-stats)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NTG-TPL&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NTG-TPL&theme=github_dark)
