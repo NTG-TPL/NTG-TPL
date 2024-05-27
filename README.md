@@ -47,6 +47,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NTG-TPL&theme=github-dark-blue&hide_border=true&border_radius=10&locale=ru&card_width=700&stroke=0D1117&fire=F34B7D)](https://git.io/streak-stats)
 
+[//]: <[![NTG-TPL's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=NTG-TPL&theme=dark)](https://github.com/KnlnKS/leetcode-stats)>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NTG-TPL&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NTG-TPL&theme=github_dark)
