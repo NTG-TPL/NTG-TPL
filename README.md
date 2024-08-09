@@ -1,4 +1,6 @@
-<h1 align="center"> Привет! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/> Меня зовут Тепляков Николай
+<h1 align="center">Привет! Меня зовут <a href="https://github.com/NTG-TPL/" target="_blank">Николай</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>
+
 
 
 Немного обо мне:
