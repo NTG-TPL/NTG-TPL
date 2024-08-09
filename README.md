@@ -1,7 +1,7 @@
-<h1 align="center">Привет! Меня зовут <a href="https://github.com/NTG-TPL/" target="_blank">Николай</a>
+<h1 align="center"> Привет! Меня зовут <a href="https://github.com/NTG-TPL/" target="_blank">Николай</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>
-
-
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&center=true&width=435&lines=Software+Engineer+%7C+AI%5CML+Engineer+)](https://git.io/typing-svg)
 
 Немного обо мне:
 ----------------
@@ -111,7 +111,7 @@
 
 * ✉️  Вы можете связаться со мной по почте [nikolay.tep@yandex.ru](mailto:nikolay.tep@yandex.ru)
 
-### :bar_chart: Статистика:
+### Статистика:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NTG-TPL&theme=github-dark-blue&hide_border=true&border_radius=10&locale=ru&card_width=700&stroke=0D1117&fire=F34B7D)](https://git.io/streak-stats)
 
