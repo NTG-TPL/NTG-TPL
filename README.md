@@ -1,49 +1,87 @@
-<h1 align="center">Привет! Меня зовут <a href="https://github.com/NTG-TPL/" target="_blank">Николай</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>
+<h1 align="center"> Привет! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/> Меня зовут Тепляков Николай
 
-## Немного обо мне: 
-Я студент Казанского Федерального Университета 4-го курса бакалавриата, учусь на прикладной математике. Занимался решением задач обнаружения объектов и их сопровождения на языке C++ в составе кросс-функциональной команды.
-Тут публикуются проекты, которые я делаю в свободное время.
 
-Загляните в раздел [Резюме](#Resume), чтобы узнать обо мне больше.
+Немного обо мне:
+----------------
 
-## :computer: Техногии и :wrench: Инструменты
+Получил степень бакалавра по направлению "Прикладная математика" в КФУ. Сейчас получаю степень магистра в ИТМО по направлению "Информатика и вычислительная техника", профиль "Искусственный интеллект". Тут публикуются проекты, которые я делаю в свободное время.
 
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.ecma-international.org/wp-content/uploads/ECMA-334_6th_edition_june_2022.pdf)
+* ✉️  Вы можете связаться со мной [nikolay.tep@yandex.ru](mailto:nikolay.tep@yandex.ru)
 
-[![OpenCV](https://img.shields.io/badge/Lib-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=6aa6f8)](https://opencv.org/)
-[![Qt](https://img.shields.io/badge/Lib-Qt-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/framework)
-[![STL](https://img.shields.io/badge/Lib-STL-informational?style=flat&logo=STL&logoColor=white&color=6aa6f8)]()
-[![OpenMP](https://img.shields.io/badge/Lib-OpenMP-informational?style=flat&logo=OpenMP&logoColor=white&color=6aa6f8)](https://www.openmp.org/)
-[![ProtoBuf](https://img.shields.io/badge/Lib-Protobuf-informational?style=flat&logo=Protobuf&logoColor=white&color=6aa6f8)](https://protobuf.dev/)
+### Навыки
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://cmake.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/a7c699b2-fc27-42f3-9baf-1c3fbf10ca8d" width="36" height="36" alt="CMake" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
+  <a href="https://www.qt.io" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/e8e628a9-84c0-4f62-8c82-446aae80208b" width="36" height="36" alt="Qt" /></a>
+  <a href="https://www.boost.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/8f7ce759-1a21-4fe8-9deb-6d38de7d7271" width="36" height="36" alt="Boost" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <a href="https://www.jetbrains.com/clion" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/14fe1069-68bc-47c2-80e4-95f196072dbe" width="36" height="36" alt="CLion" /></a>
+  <a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/d9a46b3b-f46d-4143-bcfe-99762f5ce8ca" width="36" height="36" alt="PyCharm" /></a>
+  <a href="https://conan.io" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/063f4f7b-86d6-4722-97a0-5fb41a687a67" width="36" height="36" alt="Conan" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/a9b0bccf-413a-4221-a7f4-7f9e2a199d45" width="36" height="36" alt="Postman" /></a>
+  <a href="https://yandex.cloud" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/518a925e-02fb-4420-8a9b-a32d84cec1e6" width="36" height="36" alt="YandexCloud" /></a>
+</p>
 
-  
-[![Git](https://img.shields.io/badge/Skill-Git-informational?style=flat&logo=Git&logoColor=white&color=6aa6f8)](https://git-scm.com/)
-[![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
-[![HTML](https://img.shields.io/badge/Skill-HTML-informational?style=flat&logo=Html5&logoColor=white&color=6aa6f8)](https://html.spec.whatwg.org/multipage/)
-[![CSS](https://img.shields.io/badge/Skill-CSS-informational?style=flat&logo=Css3&logoColor=white&color=6aa6f8)](https://www.w3.org/Style/CSS/)
-[![CMake](https://img.shields.io/badge/Skill-CMake-informational?style=flat&logo=CMake&logoColor=white&color=6aa6f8)](https://cmake.org/)
-[![pgAdmin4](https://img.shields.io/badge/Skill-pgAdmin4-informational?style=flat&logo=pgAdmin4&logoColor=white&color=6aa6f8)](https://www.pgadmin.org/)
-  
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=6aa6f8)]()
-[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6aa6f8)]()
-  
-[![Eclipse](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=6aa6f8)](https://www.eclipse.org/)
-[![QtCreator](https://img.shields.io/badge/Editor-QtCreator-informational?style=flat&logo=Qt&logoColor=white&color=6aa6f8)](https://www.qt.io/product/development-tools)
-[![CLion](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=Clion&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/clion/)
 
-## 📫 Как связаться со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/NTGtpl)
-[![Discord](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=6aa6f8)](https://discordapp.com/users/747840038498336799/)
-[![Gmail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white&color=blue)](mailto:nikolay.tep@yandex.ru)
+[comment]: <> (<a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
+                  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>)
 
-## :page_facing_up: <a name="Resume">Резюме</a>:
-[![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://github.com/NTG-TPL/NTG-TPL/files/12801370/10.pdf)
-[![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ntg-tpl)
+### Социальные сети
 
-## :bar_chart: Статистика:
+<p align="left"> 
+  <a href="https://discord.com/users/747840038498336799" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.github.com/NTG-TPL" target="_blank" rel="noreferrer"> 
+    <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.linkedin.com/in/nikolay-teplyakov-4a2097322" target="_blank" rel="noreferrer"> 
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+      </picture> 
+  </a>
+  <a href="https://www.linkedin.com/in/nikolay-teplyakov-4a2097322" target="_blank" rel="noreferrer"> 
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f57274fa-e8f2-4737-9c98-4f10e6fe5278" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f57274fa-e8f2-4737-9c98-4f10e6fe5278" /> 
+        <img src="https://github.com/user-attachments/assets/f57274fa-e8f2-4737-9c98-4f10e6fe5278" width="32" height="32" /> 
+      </picture> 
+  </a>
+</p>
+
+
+### :bar_chart: Статистика:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NTG-TPL&theme=github-dark-blue&hide_border=true&border_radius=10&locale=ru&card_width=700&stroke=0D1117&fire=F34B7D)](https://git.io/streak-stats)
 
